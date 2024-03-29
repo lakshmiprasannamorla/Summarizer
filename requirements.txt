@@ -1,4 +1,4 @@
- streamlit==1.32.2 
+streamlit==1.32.2 
 newspaper3k==0.2.8 
 textblob==0.18.0.post0
 lxml==5.1.0 
